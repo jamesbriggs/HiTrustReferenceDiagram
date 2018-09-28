@@ -1,5 +1,5 @@
-# HiTrust Reference Diagram
+# HITRUST Reference Diagram
 
-HiTrust Reference Diagram showing how to use AWS services for HiTrust compliance.
+HITRUST Reference Diagram showing how to use AWS services for USA HITRUST Common Security Framework (CSF) compliance.
 
-![HiTrust Reference Diagram](HiTrustReferenceDiagram.png)
+![HITRUST Reference Diagram](HiTrustReferenceDiagram.png)
