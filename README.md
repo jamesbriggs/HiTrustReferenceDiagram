@@ -5,7 +5,7 @@ HITRUST Reference Diagram showing recommended AWS services for USA HITRUST Commo
 ![HITRUST Reference Diagram](HiTrustReferenceDiagram.png)
 
 
-**Links**
+**More Information**
 
 * [HITRUST Alliance](https://hitrustalliance.net/)
 * [W: HITRUST](https://en.wikipedia.org/wiki/HITRUST)
