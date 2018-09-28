@@ -4,4 +4,7 @@ HITRUST Reference Diagram showing how to use AWS services for USA HITRUST Common
 
 ![HITRUST Reference Diagram](HiTrustReferenceDiagram.png)
 
-W: [HITRUST](https://en.wikipedia.org/wiki/HITRUST)
+
+[HITRUST Alliance](https://hitrustalliance.net/)
+
+[W: HITRUST](https://en.wikipedia.org/wiki/HITRUST)
