@@ -4,6 +4,7 @@ HITRUST Reference Diagram showing recommended AWS services for USA HITRUST Commo
 
 ![HITRUST Reference Diagram](HiTrustReferenceDiagram.png)
 
+For HITRUST implementaion consulting, [contact James Briggs](http://www.jebriggs.com/contact.html).
 
 **More Information**
 
