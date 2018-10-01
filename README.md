@@ -2,7 +2,7 @@
 
 HITRUST Reference Diagram showing recommended AWS services for USA HITRUST Common Security Framework (CSF) compliance.
 
-![HITRUST Reference Diagram](HiTrustReferenceDiagram.png)
+![HITRUST Reference Diagram](HITRUSTReferenceDiagram.png)
 
 To implement HITRUST in your company, [contact James Briggs](http://www.jebriggs.com/contact.html).
 
